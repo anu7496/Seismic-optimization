@@ -6,7 +6,7 @@ This repository consists of source code for the research paper : "Performance Op
 Seismic Noise data is collected from National Capital Region, India. More information is available at Mendeley Open source data respository (https://dx.doi.org/10.17632/4wv9pff6b3.1).
 
 # Code
-For threshold and leading window duration optimization of MER, MWA, and STALTA run mer_optimize.py, mwa_optimize.py, and stalta_optimize.py from Optimization folder.
+Run mer_optimize.py, mwa_optimize.py, and stalta_optimize.py from Optimization folder for threshold and leading window duration optimization of MER, MWA, and STALTA .
 
 After optimization use the optimized values to find the detection perfromance.
 
